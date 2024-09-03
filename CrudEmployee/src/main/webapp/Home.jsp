@@ -84,7 +84,7 @@ footer {
 
 </style>
 <body>
-<h1>Employee Information Portal</h1>
+<h1>Employee Information Platform</h1>
 <a href="CrudEmployeeServlet?action=fetchAll">Click here to get all employees information =></a><br>
 <a href="addEmployee.jsp">Click here to add new employee =></a><br>
 <a href="editEmployee.jsp">Click here to update employee by Id =></a>

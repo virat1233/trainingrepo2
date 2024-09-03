@@ -14,7 +14,7 @@ body {
     color: #f2f2f2;
     font-family: Arial, sans-serif;
     display: block;
-    justify-content: center;
+    justify-content: right;
     align-items: left;
     height: 1000vh;
     margin: 0;

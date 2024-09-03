@@ -14,7 +14,7 @@ body {
     color: #ffffff;
     font-family: Arial, sans-serif;
     display: flex;
-    justify-content: center;
+    justify-content: left;
     align-items: center;
     height: 0.1vh;
     margin: 0;
@@ -24,24 +24,13 @@ a {
     color: #3498db;
     text-decoration: none;
     margin-bottom: 20px;
-    display: inline-block;
+    display: flex;
 }
 
 a:hover {
     text-decoration: underline;
 }
 
-form {
-    background-color: #2c2c2c;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-    max-width: 400px;
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
 
 form input[type="text"],
 form input[type="number"] {

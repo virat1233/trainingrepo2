@@ -9,16 +9,16 @@
 /* styles.css */
 
 body {
-    background-color: #1c1c1c;
+    background-color: #5feef2;
     color: #f2f2f2;
     font-family: Arial, sans-serif;
-    display: flex;
+    display: block;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 1000vh;
     margin: 0;
-    text-align: center;
+    text-align: left;
 }
 
 a {

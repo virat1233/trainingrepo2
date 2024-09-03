@@ -10,13 +10,13 @@
 /* styles.css */
 
 body {
-    background-color: #1c1c1c;
-    color: #f2f2f2;
+    background-color: #98a9ff;
+    color: #ffffff;
     font-family: Arial, sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 0.1vh;
     margin: 0;
 }
 

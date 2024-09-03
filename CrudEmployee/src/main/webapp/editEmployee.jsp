@@ -10,9 +10,8 @@
 /* styles.css */
 
 body {
-    background-color: #5feef2;
-    color: #f2f2f2;
-    font-family: Arial, sans-serif;
+    background-color: #98a9ff;
+    color: #ffffff;
     display: block;
     justify-content: right;
     align-items: left;
@@ -24,24 +23,13 @@ a {
     color: #3498db;
     text-decoration: none;
     margin-bottom: 20px;
-    display: inline;
+    display: flex;
 }
 
 a:hover {
     text-decoration: none;
 }
 
-form {
-    background-color: #2c2c2c;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-    max-width: 400px;
-    width: 100%;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-}
 
 form input[type="text"],
 form input[type="number"] {

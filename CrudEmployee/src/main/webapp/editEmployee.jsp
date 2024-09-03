@@ -13,7 +13,7 @@ body {
     background-color: #5feef2;
     color: #f2f2f2;
     font-family: Arial, sans-serif;
-    display: flex;
+    display: block;
     justify-content: center;
     align-items: left;
     height: 1000vh;
@@ -24,11 +24,11 @@ a {
     color: #3498db;
     text-decoration: none;
     margin-bottom: 20px;
-    display: inline-block;
+    display: inline;
 }
 
 a:hover {
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 form {
@@ -39,7 +39,7 @@ form {
     max-width: 400px;
     width: 100%;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
 }
 
